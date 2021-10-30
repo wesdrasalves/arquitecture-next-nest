@@ -8,7 +8,7 @@ Arquitetura base usada em meus projeto fazendo uso das tecnologias
 
 Para rodar o projeto execute o comando abaixo:
 
-´´´
+´´´´
 yarn start:dev
 
-´´´
+´´´´
