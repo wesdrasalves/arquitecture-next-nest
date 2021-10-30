@@ -1,0 +1,38 @@
+{
+  "name": "full-architecture",
+  "version": "1.0.0",
+  "description": "Arquitetura base de projeto usando NestJS, React RextJS, GraphQL",
+  "main": "index.js",
+  "author": "Wesdras Alves",
+  "license": "ISC",
+  "scripts": {
+    "nest": "nest",
+    "next": "cd src/client && next",
+    "start": "nest start",
+    "start:dev": "nest start --watch"
+  },
+  "dependencies": {
+    "@nestjs/common": "^8.0.7",
+    "@nestjs/config": "^1.0.1",
+    "@nestjs/core": "^8.0.7",
+    "@nestjs/platform-express": "^8.0.7",
+    "express": "^4.17.1",
+    "nest-next": "^9.4.0",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.3.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.10.1",
+    "@types/react": "^17.0.24",
+    "@types/react-dom": "^17.0.9",
+    "@typescript-eslint/eslint-plugin": "^4.32.0",
+    "@typescript-eslint/parser": "^4.32.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.26.0",
+    "source-map-support": "^0.5.20"
+  }
+}
