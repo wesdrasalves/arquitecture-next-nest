@@ -1,6 +1,6 @@
 # Arquitetura base para projetos Next + Nest + TypeScript
 
-Arquitetura base usada em meus projeto fazendo uso das tecnologias
+Arquitetura base para projetos fazendo uso das tecnologias
 
 * NextJS
 * NestJS
